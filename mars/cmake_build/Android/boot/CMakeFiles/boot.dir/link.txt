@@ -1,0 +1,2 @@
+/Users/huafang/Library/Android/sdk/ndk/27.3.13750724/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc libboot.a CMakeFiles/boot.dir/context.cc.o CMakeFiles/boot.dir/jni/context_wrapper.cc.o
+/Users/huafang/Library/Android/sdk/ndk/27.3.13750724/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib libboot.a

@@ -1,0 +1,2 @@
+/Users/huafang/Library/Android/sdk/ndk/27.3.13750724/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc libbaseevent.a CMakeFiles/baseevent.dir/src/active_logic.cc.o CMakeFiles/baseevent.dir/src/baseprj.cc.o CMakeFiles/baseevent.dir/src/baseprjevent.cc.o CMakeFiles/baseevent.dir/jni/com_tencent_mars_BaseEvent.cc.o
+/Users/huafang/Library/Android/sdk/ndk/27.3.13750724/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib libbaseevent.a
